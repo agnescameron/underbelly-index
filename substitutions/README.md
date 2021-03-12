@@ -1,4 +1,4 @@
-## Recipe datasets
+## Substitution datasets
 
 This repository contains:
 
@@ -6,4 +6,4 @@ This repository contains:
 
 In 
 
-### External Recipe Datasets
+### External Substitution Datasets
