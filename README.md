@@ -31,19 +31,20 @@ Distinguished from recipes -- recipes are the methods used to make dishes, dishe
 
 ### Processes
 
-not currently implemented
+*not currently implemented*
 
 ### Qualities
 
-not currently implemented
+*not currently implemented*
 
 Flavours, textures etc.
 
-![](food-space.png)
+<img src="./flavour-space.jpg" style="width:400px"/>
+
 
 ### Sources
 
-not currently implemented
+*not currently implemented*
 
 Chefs, authors, historic entities, institutions, websites etc. All of the information surrounding authorship/origin of specific food, food history.
 
@@ -58,7 +59,7 @@ Datasets used to qualify and relate different entities, each entity maybe has on
 
 ### Taxonomies / Ontologies
 
-not currently implemented
+*not currently implemented*
 
 Different ways of organising/ordering/dividing foods/cooking processes, e.g.
 
@@ -70,7 +71,7 @@ This one feels hard to schematise (schema schemas) but important for more existe
 
 ### Customs + Diets
 
-not currently implemented
+*not currently implemented*
 
 Datasets of what's eaten / not eaten around religious festivals, different diets, 
 
