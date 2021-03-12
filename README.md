@@ -6,75 +6,28 @@ This top-level README describes the intent of the project, and the broad intenti
 
 ## An index for food data
 
-This project is based on a Question-Answering scenario that requires a knowledge base with general knowledge about food and cookery. In order to adequately address a range of questions, 10 major thematic topics (in addition to  minor thematic topics) requiring data have been identified. A diagram showing the interaction between these relationships is shown below.
+This project is based on a Question-Answering scenario that requires a knowledge base with general knowledge about food and cookery. In order to adequately address a range of questions, a number of thematic topics requiring data have been identified. A diagram showing the interaction between these relationships is shown below.
 
 For a set of earlier notes, links and thoughts on the project, the [R1 Potluck](https://underlay.pubpub.org/pub/f34wfzv0/draft) document contains a longer discussion of these topics.
 
 ![](food-space.png)
 
-## Major Topics
-e.g. each of these might have multiple sub-collections
+## Topics
+each of these might have multiple sub-collections
 
-### Recipes
-
-[main folder](./recipes)
-
-### Ingredients
-
-[main folder](./ingredients)
-
-### Dishes
-
-[main folder](./dishes)
-
-Distinguished from recipes -- recipes are the methods used to make dishes, dishes are named and indentifiable entities + don't require recipes. There can be multiple recipes for one dish, etc.
-
-### Processes
-
-*not currently implemented*
-
-### Qualities
-
-*not currently implemented*
-
-Flavours, textures etc.
-
-<img src="./flavour-space.jpg" style="width:400px"/>
-
-
-### Sources
-
-*not currently implemented*
-
-Chefs, authors, historic entities, institutions, websites etc. All of the information surrounding authorship/origin of specific food, food history.
-
-## Minor 'transformational' topics
-
-Datasets used to qualify and relate different entities, each entity maybe has one or 2 associated schemas.
-
-### Substitutions
-
-[main folder](./substitutions)
-
-
-### Taxonomies / Ontologies
-
-*not currently implemented*
-
-Different ways of organising/ordering/dividing foods/cooking processes, e.g.
-
-* Lévi-Strauss [Culinary Triangle](https://en.wikipedia.org/wiki/Culinary_triangle) (roasted/smoked/boiled)
-* a [Bengali traditional classification](https://www.sahapedia.org/our-food-their-food-historical-overview-of-the-bengali-platter) (food that is chewed/sucked/licked/drunk)
-* Patrick Gunkel's [application of sausage-like packaging to non-meat food](http://ideonomy.mit.edu/mapsandlists-set1/pic030.html)
-
-This one feels hard to schematise (schema schemas) but important for more existensial food questions. 
-
-### Customs + Diets
-
-*not currently implemented*
-
-Datasets of what's eaten / not eaten around religious festivals, different diets, 
-
+* [Recipes](./recipes)
+* [Ingredients](./ingredients)
+* [Substitutions](./substitutions)
+* [Dishes](./dishes) -- Distinguished from recipes -- recipes are the methods used to make dishes, dishes are named and indentifiable entities + don't require recipes. There can be multiple recipes for one dish, etc.
+* Processes *(not currently implemented)*
+* Sources *(not currently implemented)* -- Chefs, authors, historic entities, institutions, websites etc. All of the information surrounding authorship/origin of specific food, food history.
+* Ontologies *(not currently implemented)* --Different ways of organising/ordering/dividing foods/cooking processes, schema-schemas, e.g.
+	* Lévi-Strauss [Culinary Triangle](https://en.wikipedia.org/wiki/Culinary_triangle) (roasted/smoked/boiled)
+	* a [Bengali traditional classification](https://www.sahapedia.org/our-food-their-food-historical-overview-of-the-bengali-platter) (food that is chewed/sucked/licked/drunk)
+	* Patrick Gunkel's [application of sausage-like packaging to non-meat food](http://ideonomy.mit.edu/mapsandlists-set1/pic030.html)
+* [Qualities](./quailities) -- Flavours, textures, smells, chemical properties etc
+	<img src="./flavour-space.jpg" style="width:400px"/>
+* Customs and diets *(not currently implemented)* -- Datasets of what's eaten / not eaten around religious festivals, different diets, 
 
 ## Acquiring food data
 
