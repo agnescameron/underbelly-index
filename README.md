@@ -33,14 +33,14 @@ each of these might have multiple sub-collections
 
 This [planning document](https://docs.google.com/document/d/19hgyiGOLv-phFP9_WSznHAlesQ1EAPeSjfLXYy489I8/edit#) for Underbelly was originally produced in the context of recipes primarily, but its outline of steps can be more generally applied. In brief:
 
-* Search: identify sources, including existing datasets
-* Schematise: define the form that the new dataset will take
-* ↱ Parse ↴: scrape new data/ translate existing data
-* Reconcile: link to existing ontologies
-* Collect: bundle into a collection
-* Query: test different queries on the collection
-* Transform and Export
-* Test and Validate
+* Search: what are the sources for this dataset that we'd like to scrape? are there external datasets that this could coexist with?
+* Schematise: what is the schema for this dataset?
+* ↱ Parse ↴: which sources have been scraped?
+* Reconcile: how does this data map onto existing datasets?
+* Collect: is it all in one place?
+* Query: what questions does this collection answer?
+* Transform and Export: what format is it in?
+* Test and Validate: have we done any cleaning/validating/testing?
 
 Each folder's README contains some discussion as to what stage of this pipeline process the datasets are currently at (with information such as scripts and schemas attached if possible).
 
