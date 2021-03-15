@@ -19,7 +19,7 @@ each of these might have multiple sub-collections
 * [Ingredients](./ingredients)
 * [Substitutions](./substitutions)
 * [Dishes](./dishes) -- Distinguished from recipes -- recipes are the methods used to make dishes, dishes are named and indentifiable entities + don't require recipes. There can be multiple recipes for one dish, etc.
-* Processes *(not currently implemented)*
+* [Processes](./processes) -- including cooking techniques, equipment, food safety
 * Sources *(not currently implemented)* -- Chefs, authors, historic entities, institutions, websites etc. All of the information surrounding authorship/origin of specific food, food history.
 * Ontologies *(not currently implemented)* --Different ways of organising/ordering/dividing foods/cooking processes, schema-schemas, e.g.
 	* Lévi-Strauss [Culinary Triangle](https://en.wikipedia.org/wiki/Culinary_triangle) (roasted/smoked/boiled)
@@ -27,7 +27,7 @@ each of these might have multiple sub-collections
 	* Patrick Gunkel's [application of sausage-like packaging to non-meat food](http://ideonomy.mit.edu/mapsandlists-set1/pic030.html)
 * [Qualities](./quailities) -- Flavours, textures, smells, chemical properties etc
 	<img src="./flavour-space.jpg" style="width:400px"/>
-* Customs and diets *(not currently implemented)* -- Datasets of what's eaten / not eaten around religious festivals, different diets, 
+* Customs and diets *(not currently implemented)* -- Datasets of what's eaten / not eaten around religious festivals, different diets
 
 ## Acquiring food data
 
