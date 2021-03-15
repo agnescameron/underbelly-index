@@ -1,9 +1,9 @@
 ## Recipe datasets
 
-This repository contains:
+This [repository](https://github.com/agnescameron/food_schemas) contains:
 
-* A scraped dataset of meatball recipes and the 
-
-In 
+* Different scripts for scraping recipes 
+* Schema generated for the scraped data using FOODON ontology
+* Graph database (Neo4j) that satisfies the schema created.
 
 ### External Recipe Datasets
