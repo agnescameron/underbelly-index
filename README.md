@@ -1,4 +1,4 @@
-# Underbelly index
+# food knowledge index
 
 This repository is an index and documentation of scripts and datasets associated with the Underbelly project. A README in each folder details links to external relevant datasets, and contains datasets composed for this project specifically, and the scripts use to produce them. This folder is currently internal, as it references projects and datasets that are yet to be released, or are subject to licensing difficulties. A public-facing version that omits these can also be made.
 
@@ -33,9 +33,9 @@ each of these might have multiple sub-collections
 
 This [planning document](https://docs.google.com/document/d/19hgyiGOLv-phFP9_WSznHAlesQ1EAPeSjfLXYy489I8/edit#) for Underbelly was originally produced in the context of recipes primarily, but its outline of steps can be more generally applied. In brief:
 
-* Search: what are the sources for this dataset that we'd like to scrape? are there external datasets that this could coexist with?
+* Search: what are the sources? are there external datasets?
 * Schematise: what is the schema for this dataset?
-* ↱ Parse ↴: which sources have been scraped?
+* ↱ Parse ↴: what data has been scraped?
 * Reconcile: how does this data map onto existing datasets?
 * Collect: is it all in one place?
 * Query: what questions does this collection answer?
