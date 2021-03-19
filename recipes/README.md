@@ -13,6 +13,7 @@ This [repository](https://github.com/agnescameron/food_schemas) contains:
 		* meatballs
 		* okonomiyaki
 		* [borscht](https://github.com/agnescameron/food_schemas/blob/master/sources/borschts.txt)
+		* [ramen](https://docs.google.com/document/d/1qLPoLxek3WLQJDtU6i3300_0nNioqeYXi7vESrtNvjQ/edit)
 	* existing datasets:
 		* Yummly-25k
 		* Cookpad
@@ -36,6 +37,7 @@ This [repository](https://github.com/agnescameron/food_schemas) contains:
 	* what is a recipe for X?
 	* how many recipes for X contain Y ingredient?
 	* what ingredients are commonly included in X?
+	* what are different ways to make Z dish?
 * Transform and Export: what format is it in?
 	* in Neo4j (an older script can also produce linked SQLite data)
 * Test and Validate: have we done any cleaning/validating/testing?

@@ -2,7 +2,7 @@
 
 This repository is an index and documentation of scripts and datasets associated with the Underbelly project. A README in each folder details links to external relevant datasets, and contains datasets composed for this project specifically, and the scripts use to produce them. This folder is currently internal, as it references projects and datasets that are yet to be released, or are subject to licensing difficulties. A public-facing version that omits these can also be made.
 
-This top-level README describes the intent of the project, and the broad intention behind each thematic collection of datasets. 
+This top-level README describes the intent of the project, and the broad intention behind each thematic collection of datasets. We also maintain a general collection of food-related datasets, which you can view and contribute to [here](https://docs.google.com/spreadsheets/d/15w764WQAeXHE705g5sRkDKlhnURmCrY5tei-pUJDKng/edit#gid=0).
 
 ## An index for food data
 
