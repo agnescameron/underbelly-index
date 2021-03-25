@@ -6,6 +6,7 @@ This [repository](https://github.com/agnescameron/related-dishes) contains links
 
 * A dataset of [relationships between dishes](https://github.com/agnescameron/related-dishes), scraped using a wiki crawler in the 'See Also' section
 * A [dataset of dishes](https://github.com/agnescameron/wiki-dish-scraper) (needs to be cleaned!), scraped by scraping the wikipedia lists of dishes
+* A [dataset of different dishes from cooking sites](https://github.com/fakela/recipe-links-crawler), scraped using selenium and scrapy
 
 See also:
 
